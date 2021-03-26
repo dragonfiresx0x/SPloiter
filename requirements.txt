@@ -1,0 +1,7 @@
+sys
+socket
+colorama
+signal
+requests
+ftplib
+
