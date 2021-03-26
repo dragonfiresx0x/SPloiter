@@ -10,7 +10,7 @@ Open Terminal and Type:
 git clone https://github.com/Nadar-Athis/SPloiter
 ```
 ```
-cd SPloier
+cd SPloiter
 ```
 ```
 ls
